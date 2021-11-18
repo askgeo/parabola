@@ -1,2 +1,2 @@
 # parabola
-Functions to calculate the attributes of a parabola
+Functions to calculate the attributes of a parabola.
